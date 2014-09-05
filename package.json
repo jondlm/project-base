@@ -1,6 +1,6 @@
 {
   "name": "project-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple way to get the absolute root path for your current project. Useful for local requires.",
   "repository" : {
     "type" : "git",
